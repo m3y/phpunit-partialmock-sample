@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpunit/phpunit": "4.8.15"
+    },
+    "autoload": {
+        "psr-0": {"M3y\\": "src/"}
+    }
+}
